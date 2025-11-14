@@ -1,0 +1,9 @@
+git+https://github.com/tree-sitter/py-tree-sitter  # or pip install tree_sitter wrapper you prefer
+networkx
+gitpython
+requests
+python-dotenv
+jinja2
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
